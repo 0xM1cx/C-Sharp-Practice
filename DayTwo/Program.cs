@@ -1,7 +1,28 @@
-﻿void ProblemTwo(){
+﻿
+
+void ProblemTwo(){
 /*Write a program to read n number of values in an array
 and display it in reverse order*/
-    int[] nums = new int[];
+    int[] nums = new int[50];
+    int i = 0, userInput;
+    do
+    {
+        Console.WriteLine("INPUT:  ");
+        userInput = Convert.ToInt32(Console.ReadLine());
+        nums[i] = userInput;
+        i++;
+
+    } while(userInput != 0);
+
+    Array.Reverse(nums);
+    foreach (int item in nums)
+    {
+        if(item != 0){
+            Console.Write("{0}\t", item);
+        }
+    } 
+
+
 }
 
 
