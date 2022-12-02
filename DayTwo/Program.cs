@@ -1,4 +1,11 @@
-﻿void ProblemOne(){
+﻿void ProblemTwo(){
+/*Write a program to read n number of values in an array
+and display it in reverse order*/
+    int[] nums = new int[];
+}
+
+
+void ProblemOne(){
 // Problem 1
 // STATUS: COMPLETED
 /*Write a program to store elements in an array and print it.*/
@@ -35,7 +42,8 @@
 
 
 void Main(){
-    ProblemOne();    
+    // ProblemOne();
+    ProblemTwo();    
 }
 
 Main();
