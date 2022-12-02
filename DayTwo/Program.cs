@@ -1,4 +1,7 @@
-﻿
+﻿void ProblemThree(){
+        
+}
+
 
 void ProblemTwo(){
 /*Write a program to read n number of values in an array
