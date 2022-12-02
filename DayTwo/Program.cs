@@ -3,6 +3,7 @@
 void ProblemTwo(){
 /*Write a program to read n number of values in an array
 and display it in reverse order*/
+// STATUS: Completed
     int[] nums = new int[50];
     int i = 0, userInput;
     do
