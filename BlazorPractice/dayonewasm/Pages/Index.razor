@@ -1,0 +1,27 @@
+﻿@page "/"
+
+<PageTitle>Index</PageTitle>
+
+<h1>@name</h1>
+
+
+<button @onclick="changeName">Click Me, to get my fullname</button>
+
+
+@code {
+    private string name = "Shawn";
+
+    int flag = 0;
+    private void changeName(){
+        flag++;
+        if(flag % 2 == 1){
+            name = "Shawn Michael Sudaria";
+        }else{
+            name = "Shawn";
+        }
+
+        if(flag is 19){
+            flag = 0;
+        }
+    }
+}
