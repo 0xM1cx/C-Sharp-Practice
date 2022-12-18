@@ -8,105 +8,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 726184997,
-        "Kind": "Components.Component",
-        "Name": "dayonewasm.Pages.FetchData",
-        "AssemblyName": "dayonewasm",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "dayonewasm.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 1425174160,
-        "Kind": "Components.Component",
-        "Name": "dayonewasm.Pages.FetchData",
-        "AssemblyName": "dayonewasm",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "dayonewasm.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "dayonewasm.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1701572421,
-        "Kind": "Components.Component",
-        "Name": "dayonewasm.Pages.Counter",
-        "AssemblyName": "dayonewasm",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "dayonewasm.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 251143939,
-        "Kind": "Components.Component",
-        "Name": "dayonewasm.Pages.Counter",
-        "AssemblyName": "dayonewasm",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "dayonewasm.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "dayonewasm.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 744378733,
-        "Kind": "Components.Component",
-        "Name": "dayonewasm.Pages.Index",
-        "AssemblyName": "dayonewasm",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "dayonewasm.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -29923123,
-        "Kind": "Components.Component",
-        "Name": "dayonewasm.Pages.Index",
-        "AssemblyName": "dayonewasm",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "dayonewasm.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "dayonewasm.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -566969720,
         "Kind": "Components.Component",
         "Name": "dayonewasm.Shared.SurveyPrompt",
@@ -318,6 +219,105 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "dayonewasm.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 744378733,
+        "Kind": "Components.Component",
+        "Name": "dayonewasm.Pages.Index",
+        "AssemblyName": "dayonewasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "dayonewasm.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -29923123,
+        "Kind": "Components.Component",
+        "Name": "dayonewasm.Pages.Index",
+        "AssemblyName": "dayonewasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "dayonewasm.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "dayonewasm.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1701572421,
+        "Kind": "Components.Component",
+        "Name": "dayonewasm.Pages.Counter",
+        "AssemblyName": "dayonewasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "dayonewasm.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": 251143939,
+        "Kind": "Components.Component",
+        "Name": "dayonewasm.Pages.Counter",
+        "AssemblyName": "dayonewasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "dayonewasm.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "dayonewasm.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 726184997,
+        "Kind": "Components.Component",
+        "Name": "dayonewasm.Pages.FetchData",
+        "AssemblyName": "dayonewasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "dayonewasm.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 1425174160,
+        "Kind": "Components.Component",
+        "Name": "dayonewasm.Pages.FetchData",
+        "AssemblyName": "dayonewasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "dayonewasm.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "dayonewasm.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

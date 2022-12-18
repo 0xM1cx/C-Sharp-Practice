@@ -8,8 +8,11 @@
 <button @onclick="changeName">Click Me, to get my fullname</button>
 
 
+
+<Counter />
+
 @code {
-    private string name = "Shawn";
+    private string name = "Shun_m1cx";
 
     int flag = 0;
     private void changeName(){
@@ -17,7 +20,7 @@
         if(flag % 2 == 1){
             name = "Shawn Michael Sudaria";
         }else{
-            name = "Shawn";
+            name = "Shun_m1cx";
         }
 
         if(flag is 19){
@@ -25,3 +28,4 @@
         }
     }
 }
+
