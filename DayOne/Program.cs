@@ -13,3 +13,14 @@ foreach (int age in agesOfStudents)
 {
     Console.WriteLine(age);
 }
+
+
+// Multidimensional Arrays
+
+
+int[,] nums = {{14, 13, 41}, {14, 123, 13}, {10, 31, 4}};
+
+foreach (int item in nums)
+{
+    Console.WriteLine("\n{0}", item);
+}
