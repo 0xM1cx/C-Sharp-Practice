@@ -3,15 +3,29 @@
 namespace ClassPractice
 {
     
-    class House
+    
+
+    class exHouse 
+    {
+        public string a = "It Worked";
+        protected void akonBalay(){
+            House h1 = new House();
+            h1.owningCompany = "Camella Homes";
+            Console.WriteLine(h1.owningCompany);
+        }
+
+    }
+
+
+    class House : exHouse
     {
 
-        public string color;
-        public string owningCompany;
-        public int numberOfWindows;
-        public string houseID;
-        public bool available = true;
-        public void status(){
+        string color;
+        string owningCompany;
+        int numberOfWindows;
+        string houseID;
+        bool available = true;
+        void status(){
             Console.WriteLine("The house {0} is available", houseID); 
             
         }
@@ -20,13 +34,15 @@ namespace ClassPractice
         static void Main(string[] args)
         {
             House myhome = new House();
-            
-            myhome.color = "Blue";
-            myhome.owningCompany = "Bridge Homes";
-            myhome.numberOfWindows = 4;
-            myhome.houseID = "ACB 32";
-
+            myhome.akonBalay();
+            myhome.houseID = "ACB2012";
             myhome.status();
+            // myhome.color = "Blue";
+            // myhome.owningCompany = "Bridge Homes";
+            // myhome.numberOfWindows = 4;
+            // myhome.houseID = "ACB 32";
+
+            // myhome.status();
 
             // if(myhome.available == true){
             //     Console.WriteLine("When can we move in?");
@@ -37,18 +53,6 @@ namespace ClassPractice
         }
 
 
-
-    }
-
-    class exHouse 
-    {
-        public void akonBalay(){
-            House h1 = new House();
-            h1.owningCompany = "Camella Homes";
-            Console.WriteLine(h1.owningCompany);
-        }
-
-        akonBalay();
 
     }
 
