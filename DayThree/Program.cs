@@ -7,7 +7,7 @@ namespace ClassPractice
 
     class exHouse 
     {
-        public string a = "It Worked";
+        protected string a = "It Worked";
         protected void akonBalay(){
             House h1 = new House();
             h1.owningCompany = "Camella Homes";
@@ -21,7 +21,7 @@ namespace ClassPractice
     {
 
         string color;
-        string owningCompany;
+        public string owningCompany;
         int numberOfWindows;
         string houseID;
         bool available = true;
@@ -37,6 +37,7 @@ namespace ClassPractice
             myhome.akonBalay();
             myhome.houseID = "ACB2012";
             myhome.status();
+            Console.WriteLine(myhome.a);
             // myhome.color = "Blue";
             // myhome.owningCompany = "Bridge Homes";
             // myhome.numberOfWindows = 4;
