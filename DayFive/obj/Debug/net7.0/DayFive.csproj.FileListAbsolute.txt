@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayFive\obj\Debug\net7.0\DayFive.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayFive\obj\Debug\net7.0\DayFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayFive\obj\Debug\net7.0\DayFive.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayFive\obj\Debug\net7.0\DayFive.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayFive\obj\Debug\net7.0\DayFive.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayFive\bin\Debug\net7.0\DayFive.exe
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayFive\bin\Debug\net7.0\DayFive.deps.json
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayFive\bin\Debug\net7.0\DayFive.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayFive\bin\Debug\net7.0\DayFive.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayFive\bin\Debug\net7.0\DayFive.pdb
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayFive\obj\Debug\net7.0\DayFive.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayFive\obj\Debug\net7.0\refint\DayFive.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayFive\obj\Debug\net7.0\DayFive.pdb
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayFive\obj\Debug\net7.0\DayFive.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayFive\obj\Debug\net7.0\ref\DayFive.dll
