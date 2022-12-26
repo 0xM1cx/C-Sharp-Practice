@@ -5,8 +5,13 @@ namespace ConstructorPractice
     class Test
     {
         string name = "Shawn";
+        int age;
+        Test(int age)
+        {
+            this.age = age;
+        }
 
-        Test(string nickname)
+        public void bonai(string nickname)
         {
             Console.WriteLine("Before assigning a new value: {0}", this.name);
             this.name = nickname;
@@ -15,8 +20,12 @@ namespace ConstructorPractice
 
         static void Main(string[] args)
         {
-            Test test = new Test("Shun");
-            Console.WriteLine("The object of test:  {0}",test.name);
+            Console.Write("How old are you: ");
+            // int age = Convert.ToInt32(Console.ReadLine());
+            Test test = new Test(Convert.ToInt32(Console.ReadLine()));
+            Console.WriteLine("I am now {0}", test.age);
+            
         }
+
     }
 }
