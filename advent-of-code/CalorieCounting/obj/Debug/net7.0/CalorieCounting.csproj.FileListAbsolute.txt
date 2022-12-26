@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\CalorieCounting\bin\Debug\net7.0\CalorieCounting.exe
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\CalorieCounting\bin\Debug\net7.0\CalorieCounting.deps.json
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\CalorieCounting\bin\Debug\net7.0\CalorieCounting.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\CalorieCounting\bin\Debug\net7.0\CalorieCounting.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\CalorieCounting\bin\Debug\net7.0\CalorieCounting.pdb
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\CalorieCounting\obj\Debug\net7.0\CalorieCounting.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\CalorieCounting\obj\Debug\net7.0\CalorieCounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\CalorieCounting\obj\Debug\net7.0\CalorieCounting.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\CalorieCounting\obj\Debug\net7.0\CalorieCounting.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\CalorieCounting\obj\Debug\net7.0\CalorieCounting.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\CalorieCounting\obj\Debug\net7.0\CalorieCounting.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\CalorieCounting\obj\Debug\net7.0\refint\CalorieCounting.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\CalorieCounting\obj\Debug\net7.0\CalorieCounting.pdb
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\CalorieCounting\obj\Debug\net7.0\CalorieCounting.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\CalorieCounting\obj\Debug\net7.0\ref\CalorieCounting.dll
