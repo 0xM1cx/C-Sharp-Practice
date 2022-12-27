@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\tree_fromFB\bin\Debug\net7.0\tree_fromFB.exe
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\tree_fromFB\bin\Debug\net7.0\tree_fromFB.deps.json
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\tree_fromFB\bin\Debug\net7.0\tree_fromFB.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\tree_fromFB\bin\Debug\net7.0\tree_fromFB.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\tree_fromFB\bin\Debug\net7.0\tree_fromFB.pdb
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\tree_fromFB\obj\Debug\net7.0\tree_fromFB.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\tree_fromFB\obj\Debug\net7.0\tree_fromFB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\tree_fromFB\obj\Debug\net7.0\tree_fromFB.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\tree_fromFB\obj\Debug\net7.0\tree_fromFB.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\tree_fromFB\obj\Debug\net7.0\tree_fromFB.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\tree_fromFB\obj\Debug\net7.0\tree_fromFB.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\tree_fromFB\obj\Debug\net7.0\refint\tree_fromFB.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\tree_fromFB\obj\Debug\net7.0\tree_fromFB.pdb
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\tree_fromFB\obj\Debug\net7.0\tree_fromFB.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\tree_fromFB\obj\Debug\net7.0\ref\tree_fromFB.dll
