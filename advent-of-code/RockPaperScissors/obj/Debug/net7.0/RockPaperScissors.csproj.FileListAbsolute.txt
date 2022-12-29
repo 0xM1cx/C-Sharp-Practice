@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.exe
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.deps.json
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\RockPaperScissors\bin\Debug\net7.0\RockPaperScissors.pdb
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\RockPaperScissors\obj\Debug\net7.0\refint\RockPaperScissors.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.pdb
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\RockPaperScissors\obj\Debug\net7.0\RockPaperScissors.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\RockPaperScissors\obj\Debug\net7.0\ref\RockPaperScissors.dll
