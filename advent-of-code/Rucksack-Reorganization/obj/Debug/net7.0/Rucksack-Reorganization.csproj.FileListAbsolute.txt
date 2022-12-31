@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\Rucksack-Reorganization\bin\Debug\net7.0\Rucksack-Reorganization.exe
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\Rucksack-Reorganization\bin\Debug\net7.0\Rucksack-Reorganization.deps.json
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\Rucksack-Reorganization\bin\Debug\net7.0\Rucksack-Reorganization.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\Rucksack-Reorganization\bin\Debug\net7.0\Rucksack-Reorganization.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\Rucksack-Reorganization\bin\Debug\net7.0\Rucksack-Reorganization.pdb
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\Rucksack-Reorganization\obj\Debug\net7.0\Rucksack-Reorganization.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\Rucksack-Reorganization\obj\Debug\net7.0\Rucksack-Reorganization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\Rucksack-Reorganization\obj\Debug\net7.0\Rucksack-Reorganization.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\Rucksack-Reorganization\obj\Debug\net7.0\Rucksack-Reorganization.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\Rucksack-Reorganization\obj\Debug\net7.0\Rucksack-Reorganization.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\Rucksack-Reorganization\obj\Debug\net7.0\Rucksack-Reorganization.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\Rucksack-Reorganization\obj\Debug\net7.0\refint\Rucksack-Reorganization.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\Rucksack-Reorganization\obj\Debug\net7.0\Rucksack-Reorganization.pdb
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\Rucksack-Reorganization\obj\Debug\net7.0\Rucksack-Reorganization.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\advent-of-code\Rucksack-Reorganization\obj\Debug\net7.0\ref\Rucksack-Reorganization.dll
