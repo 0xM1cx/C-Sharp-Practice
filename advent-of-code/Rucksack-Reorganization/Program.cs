@@ -11,8 +11,10 @@ namespace Program
         public int CalculatePriorityPoints(List<char> item_dups, string letters)
         {
             int Total = 0;    
+            // char[] Letters = letters.ToCharArray();
             foreach (char dup in item_dups)
             {
+                Console.WriteLine("Item Duplicates: {0} and idex of {1}", dup, letters.IndexOf(dup));
                 Total += letters.IndexOf(dup) + 1;
             }
             return Total;
@@ -22,10 +24,11 @@ namespace Program
         {
             string letters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
             string[] lines = File.ReadAllLines(".\\input.txt");
-            List<char> item_duplicate = new List<char>(); // duplicate items will be stored here
             RucksackReorganization RuckReorg = new RucksackReorganization();
             int TotalPoints = 0;
             int lineLength = 0;
+            
+            List<char> item_duplicate = new List<char>(); // duplicate items will be stored here
             List<char> firstPart = new List<char>(); 
             List<char> secondPart = new List<char>();
 
@@ -41,8 +44,9 @@ namespace Program
                 }
 
                 // Appnding the second half of char of line to the secondPart List
-                for(int b = (lineLength/2); b < lineLength; b++)
+                for(int b = (lineLength/2)-1; b < lineLength; b++)
                 {
+
                     secondPart.Add(line[b]);
                 }
 
@@ -51,12 +55,18 @@ namespace Program
                 {
                     if(secondPart.Contains(item))
                     {
-                        item_duplicate.Add(item);
+                        // item_duplicate.Add(item);
+                        if(!(item_duplicate.Contains(item)))
+                        {
+                            item_duplicate.Add(item);
+                        }
                     }
                 }
-                
+
+            
                 TotalPoints += RuckReorg.CalculatePriorityPoints(item_duplicate, letters);
                 
+    
                 firstPart.Clear();
                 secondPart.Clear();
                 item_duplicate.Clear();
