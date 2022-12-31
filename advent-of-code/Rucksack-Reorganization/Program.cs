@@ -7,10 +7,10 @@ namespace Program
     class RucksackReorganization 
     {
 
-        public int Total = 0;
+        
         public int CalculatePriorityPoints(List<char> item_dups, string letters)
         {
-            
+            int Total = 0;    
             foreach (char dup in item_dups)
             {
                 Total += letters.IndexOf(dup) + 1;
@@ -22,7 +22,7 @@ namespace Program
         {
             string letters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
             string[] lines = File.ReadAllLines(".\\input.txt");
-            List<char> item_duplicate = new List<char>();
+            List<char> item_duplicate = new List<char>(); // duplicate items will be stored here
             RucksackReorganization RuckReorg = new RucksackReorganization();
             int TotalPoints = 0;
             int lineLength = 0;
@@ -41,9 +41,9 @@ namespace Program
                 }
 
                 // Appnding the second half of char of line to the secondPart List
-                for(int i = (lineLength/2); i < lineLength; i++)
+                for(int b = (lineLength/2); b < lineLength; b++)
                 {
-                    secondPart.Add(line[i]);
+                    secondPart.Add(line[b]);
                 }
 
                 // Comparing the items in both list to see which is char is shared
@@ -55,10 +55,13 @@ namespace Program
                     }
                 }
                 
+                TotalPoints += RuckReorg.CalculatePriorityPoints(item_duplicate, letters);
                 
+                firstPart.Clear();
+                secondPart.Clear();
+                item_duplicate.Clear();
             }
             // Get the total priority points from all the duplicate items
-            TotalPoints = RuckReorg.CalculatePriorityPoints(item_duplicate, letters);
             // Displaying the total priority points of the items
             Console.WriteLine("The total priority of all the duplicates is {0}", TotalPoints);
 
