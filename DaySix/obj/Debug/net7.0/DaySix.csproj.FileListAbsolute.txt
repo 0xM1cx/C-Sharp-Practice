@@ -1,0 +1,5 @@
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DaySix\obj\Debug\net7.0\DaySix.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DaySix\obj\Debug\net7.0\DaySix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DaySix\obj\Debug\net7.0\DaySix.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DaySix\obj\Debug\net7.0\DaySix.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DaySix\obj\Debug\net7.0\DaySix.csproj.CoreCompileInputs.cache

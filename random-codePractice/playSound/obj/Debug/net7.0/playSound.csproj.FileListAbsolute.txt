@@ -1,0 +1,5 @@
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\playSound\obj\Debug\net7.0\playSound.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\playSound\obj\Debug\net7.0\playSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\playSound\obj\Debug\net7.0\playSound.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\playSound\obj\Debug\net7.0\playSound.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\playSound\obj\Debug\net7.0\playSound.csproj.CoreCompileInputs.cache
