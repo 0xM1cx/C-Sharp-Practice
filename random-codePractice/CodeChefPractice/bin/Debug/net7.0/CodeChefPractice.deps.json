@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CodeChefPractice/1.0.0": {
+        "runtime": {
+          "CodeChefPractice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodeChefPractice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

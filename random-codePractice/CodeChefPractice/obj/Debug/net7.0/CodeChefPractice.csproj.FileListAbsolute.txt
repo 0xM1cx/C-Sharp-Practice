@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\CodeChefPractice\bin\Debug\net7.0\CodeChefPractice.exe
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\CodeChefPractice\bin\Debug\net7.0\CodeChefPractice.deps.json
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\CodeChefPractice\bin\Debug\net7.0\CodeChefPractice.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\CodeChefPractice\bin\Debug\net7.0\CodeChefPractice.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\CodeChefPractice\bin\Debug\net7.0\CodeChefPractice.pdb
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\CodeChefPractice\obj\Debug\net7.0\CodeChefPractice.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\CodeChefPractice\obj\Debug\net7.0\CodeChefPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\CodeChefPractice\obj\Debug\net7.0\CodeChefPractice.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\CodeChefPractice\obj\Debug\net7.0\CodeChefPractice.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\CodeChefPractice\obj\Debug\net7.0\CodeChefPractice.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\CodeChefPractice\obj\Debug\net7.0\CodeChefPractice.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\CodeChefPractice\obj\Debug\net7.0\refint\CodeChefPractice.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\CodeChefPractice\obj\Debug\net7.0\CodeChefPractice.pdb
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\CodeChefPractice\obj\Debug\net7.0\CodeChefPractice.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\CodeChefPractice\obj\Debug\net7.0\ref\CodeChefPractice.dll
