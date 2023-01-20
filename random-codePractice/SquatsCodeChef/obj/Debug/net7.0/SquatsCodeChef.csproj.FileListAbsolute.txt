@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\SquatsCodeChef\obj\Debug\net7.0\SquatsCodeChef.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\SquatsCodeChef\obj\Debug\net7.0\SquatsCodeChef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\SquatsCodeChef\obj\Debug\net7.0\SquatsCodeChef.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\SquatsCodeChef\obj\Debug\net7.0\SquatsCodeChef.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\SquatsCodeChef\obj\Debug\net7.0\SquatsCodeChef.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\SquatsCodeChef\bin\Debug\net7.0\SquatsCodeChef.exe
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\SquatsCodeChef\bin\Debug\net7.0\SquatsCodeChef.deps.json
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\SquatsCodeChef\bin\Debug\net7.0\SquatsCodeChef.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\SquatsCodeChef\bin\Debug\net7.0\SquatsCodeChef.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\SquatsCodeChef\bin\Debug\net7.0\SquatsCodeChef.pdb
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\SquatsCodeChef\obj\Debug\net7.0\SquatsCodeChef.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\SquatsCodeChef\obj\Debug\net7.0\refint\SquatsCodeChef.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\SquatsCodeChef\obj\Debug\net7.0\SquatsCodeChef.pdb
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\SquatsCodeChef\obj\Debug\net7.0\SquatsCodeChef.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\SquatsCodeChef\obj\Debug\net7.0\ref\SquatsCodeChef.dll
