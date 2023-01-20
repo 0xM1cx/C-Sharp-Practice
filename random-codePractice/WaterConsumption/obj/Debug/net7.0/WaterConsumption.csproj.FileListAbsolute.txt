@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\WaterConsumption\bin\Debug\net7.0\WaterConsumption.exe
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\WaterConsumption\bin\Debug\net7.0\WaterConsumption.deps.json
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\WaterConsumption\bin\Debug\net7.0\WaterConsumption.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\WaterConsumption\bin\Debug\net7.0\WaterConsumption.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\WaterConsumption\bin\Debug\net7.0\WaterConsumption.pdb
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\WaterConsumption\obj\Debug\net7.0\WaterConsumption.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\WaterConsumption\obj\Debug\net7.0\WaterConsumption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\WaterConsumption\obj\Debug\net7.0\WaterConsumption.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\WaterConsumption\obj\Debug\net7.0\WaterConsumption.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\WaterConsumption\obj\Debug\net7.0\WaterConsumption.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\WaterConsumption\obj\Debug\net7.0\WaterConsumption.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\WaterConsumption\obj\Debug\net7.0\refint\WaterConsumption.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\WaterConsumption\obj\Debug\net7.0\WaterConsumption.pdb
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\WaterConsumption\obj\Debug\net7.0\WaterConsumption.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\random-codePractice\WaterConsumption\obj\Debug\net7.0\ref\WaterConsumption.dll
