@@ -4,6 +4,14 @@ namespace DaySeven
 {
     class Program
     {
+        static void CoutingWords()
+        {
+            int testCase = Int32.Parse(Console.ReadLine());
+            for(int x = 1; x <= testCase; x++)
+            {
+                        
+            }
+        }
         static void getTotalPrizeMoney()
         {
             /*In a coding contest, there are prizes for the top rankers.
