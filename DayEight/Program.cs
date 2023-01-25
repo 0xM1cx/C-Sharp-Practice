@@ -4,6 +4,25 @@ namespace DayEight
 {
    class Program
    {
+        static void SecondMaxOfThreeNumbers()
+        {
+            /*Write a program that accepts sets of three numbers, and 
+            prints the second-maximum number among the three.*/
+
+            string[] N = Console.ReadLine().Split(" ");
+            int[] n = new int[3];
+            foreach (string item in N)
+            {
+                n.Append(Int32.Parse(item));
+            }
+
+            foreach(int item in n)
+            {
+                Console.WriteLine(TypeOf(item));
+            }
+
+            
+        }
         static void CountingWords()
         {
             /*Harsh was recently gifted a book consisting of N pages. 
@@ -20,7 +39,7 @@ namespace DayEight
         }
         public static void Main() 
         {
-            CountingWords();
+            SecondMaxOfThreeNumbers();
         }
    } 
 }
