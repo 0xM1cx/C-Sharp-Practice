@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayEight\obj\Debug\net7.0\DayEight.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayEight\obj\Debug\net7.0\DayEight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayEight\obj\Debug\net7.0\DayEight.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayEight\obj\Debug\net7.0\DayEight.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayEight\obj\Debug\net7.0\DayEight.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayEight\bin\Debug\net7.0\DayEight.exe
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayEight\bin\Debug\net7.0\DayEight.deps.json
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayEight\bin\Debug\net7.0\DayEight.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayEight\bin\Debug\net7.0\DayEight.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayEight\bin\Debug\net7.0\DayEight.pdb
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayEight\obj\Debug\net7.0\DayEight.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayEight\obj\Debug\net7.0\refint\DayEight.dll
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayEight\obj\Debug\net7.0\DayEight.pdb
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayEight\obj\Debug\net7.0\DayEight.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documents\C-Sharp-Practice\DayEight\obj\Debug\net7.0\ref\DayEight.dll
