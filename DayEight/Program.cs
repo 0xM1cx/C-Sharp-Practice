@@ -18,7 +18,7 @@ namespace DayEight
 
             foreach(int item in n)
             {
-                Console.WriteLine(TypeOf(item));
+                Console.WriteLine(item);
             }
 
             
